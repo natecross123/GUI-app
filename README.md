@@ -1,2 +1,2 @@
-# GUI-app
-A python GUI app 
+# Calculator-app
+A python GUI calculator app 
